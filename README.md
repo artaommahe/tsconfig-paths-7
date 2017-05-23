@@ -1,0 +1,1 @@
+https://github.com/jonaskello/tsconfig-paths/issues/7
